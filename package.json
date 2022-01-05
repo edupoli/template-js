@@ -1,8 +1,8 @@
 {
-  "name": "my-project",
-  "version": "1.0.0",
-  "description": "template para projetos javascript",
-  "main": "index.js",
+  "name": "{{name}}",
+  "description": "{{description}}",
+  "version": "0.0.0",
+  "main": "{{name}}.umd.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
